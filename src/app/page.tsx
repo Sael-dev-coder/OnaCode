@@ -13,7 +13,7 @@ export default function Home() {
           </h1>
           <p className="max-w-180 text-center">
             En Onacode diseñamos sitios web modernos, accesibles y estratégicos
-            para que tu empresa destaque frente a la competencia
+            para que tu empresa destaque frente a la competencia.
           </p>
           <Button>Cotiza Ahora!</Button>
         </header>
